@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kursach.toDoctorEnd">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEAAACAAQACAAAIQAAAAEAAIYAAAAA=</HashCode>
+      <FileName>toDoctorEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.toDoctorEnd2">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIACAQABBAAQCCAAACAAAYAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>toDoctorEnd2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.toDoctorMap1">
+    <Position X="14" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAgAAAAACAAAQCAAAAAAIgAAAAAIAEAAA=</HashCode>
+      <FileName>toDoctorMap1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.toDoctorNew">
+    <Position X="15.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAI5AAMCQAABAAAICAAAACAACAAAAEQAAAYyBAAAA=</HashCode>
+      <FileName>toDoctorNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
